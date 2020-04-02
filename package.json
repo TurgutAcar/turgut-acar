@@ -1,0 +1,24 @@
+{
+  "name": "turgut-acar",
+  "version": "1.0.0",
+  "description": "Test Projesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "turgut": "echo 'Benim adım Turgut'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "paket"
+  ],
+  "author": "Turgut Acar",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TurgutAcar/turgut-acar.git"
+  }
+}
